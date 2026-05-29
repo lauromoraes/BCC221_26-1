@@ -1,0 +1,21 @@
+ufop/poo/tp2/
+├── model/
+│   ├── Medicao.java
+│   ├── MedicaoDAO.java
+│   ├── ErroValidacao.java
+│   ├── Filtro.java
+│   ├── RegressaoLinear.java
+│   └── TabelaModel.java
+├── view/
+│   ├── MainFrame.java
+│   ├── MedicoesPanel.java
+│   ├── FiltrosPanel.java
+│   ├── RegressaoPanel.java
+│   ├── GraficoPanel.java
+│   └── renderers/
+│       └── OutlierTableCellRenderer.java
+├── controller/
+│   └── SistemaController.java
+└── util/
+    ├── CalculoDistancia.java
+    └── FormatarNumero.java
